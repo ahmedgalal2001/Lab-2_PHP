@@ -1,0 +1,7 @@
+<?php
+
+
+define("MAX_LENGTH_CHAR_USERNAME",100);
+define("MIN_LENGTH_CHAR_USERNAME",5);
+define("MAX_LENGTH_CHAR_MSG",255);
+define("MIN_LENGTH_CHAR_MSG",10);
